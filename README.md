@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fsusak03
-- 👀 I’m interested in web development, DevOps, and AI document processing
+- 👀 I’m interested in web development and DevOps
 - 🌱 I’m currently learning Kubernetes, advanced CI/CD pipelines, and system design
 - 💞️ I’m looking to collaborate on open source web apps, backend services, or automation tools
 - 📫 How to reach me: iamfilipsusak@gmail.com or via LinkedIn
